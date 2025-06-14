@@ -4,11 +4,13 @@
 
 This guide will help you set up and run the backend server for this project.
 
-## Prerequisites
+rerequisites
 
 - Node.js (v16 or higher)
 - npm 
 - Database mongodb
+- ## ![Screenshot From 2025-06-14 12-08-06](https://github.com/user-attachments/assets/30e4deed-1666-494a-8cf4-f856b6eb4c1c)
+
 - Git
 
 ## Installation
