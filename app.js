@@ -32,4 +32,5 @@ app.use(express.json());
 app.use('/api/url', require('./routes/urlRoutes'));
 app.use('/short', require('./routes/redirectRoutes'));
 
-module.exports = app; // ❌ Removed app.listen, ✅ exported app
+module.exports = app;
+
